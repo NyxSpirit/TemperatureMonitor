@@ -4,6 +4,13 @@ import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 
+import com.google.gwt.json.client.JSONArray;
+import com.google.gwt.json.client.JSONObject;
+import com.google.gwt.json.client.JSONParser;
+import com.google.gwt.json.client.JSONValue;
+import com.google.gwt.visualization.client.DataTable;
+import com.google.gwt.visualization.client.AbstractDataTable.ColumnType;
+
 public class HTMLUtils {
 	/**
 	 * Escape an html string. Escaping data received from the client helps to
@@ -55,5 +62,27 @@ public class HTMLUtils {
 			e.printStackTrace();
 		}
 		return html;
+	}
+	
+	private DataTable jsonStringToDataTable(String result) {
+		DataTable dataTable;
+		JSONValue value = JSONParser.parseStrict(result);
+		JSONObject jsonObject = value.isObject();
+		JSONArray jsonArray = jsonObject.get("graph_data").isArray();
+
+		dataTable = DataTable.create();
+		dataTable.addColumn(ColumnType.STRING, "time");
+		dataTable.addColumn(ColumnType.NUMBER, "temp");
+		int size = jsonArray.size();
+		dataTable.addRows(size);
+		for (int i = 0; i < size; i++) {
+			JSONObject tempLog = jsonArray.get(i).isObject();
+			dataTable.setValue(i, 0, tempLog.get("time").toString());
+			dataTable.setValue(i, 1, tempLog.get("temperature").isNumber()
+					.doubleValue());
+		}
+		// line.draw(dataTable,createOptions());
+		return dataTable;
+
 	}
 }

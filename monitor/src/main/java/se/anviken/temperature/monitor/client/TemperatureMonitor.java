@@ -33,7 +33,7 @@ public class TemperatureMonitor implements EntryPoint {
 	 * Create a remote service proxy to talk to the server-side Greeting
 	 * service.
 	 */
-	private final QueryServiceAsync queryService = GWT
+	private final QueryServiceAsync greetingService = GWT
 			.create(QueryService.class);
 
 	private final Messages messages = GWT.create(Messages.class);
@@ -45,42 +45,7 @@ public class TemperatureMonitor implements EntryPoint {
 	 */
 	public void onModuleLoad() {
 
-		// Create a callback to be called when the visualization API
-		// has been loaded.
-//		Runnable onLoadCallback = new Runnable() {
-//			public void run() {
-//				Panel panel = RootPanel.get();
-//				greetingService.getDataTable("",
-//						new AsyncCallback<ArrayList>() {
-//							public void onFailure(Throwable caught) {
-//								
-//							}
-//
-//							public void onSuccess(ArrayList result) {
-//								;
-//								dataTable = DataTable.create();
-//								dataTable.addColumn(ColumnType.STRING, "time");
-//								dataTable.addColumn(ColumnType.NUMBER, "temp");
-//								dataTable.addRows(result.size());
-//								ListIterator iterator = result.listIterator();
-//								while(iterator.hasNext()){
-//									ArrayList columns = (ArrayList) iterator.next();
-//									dataTable.setValue(0, 0, (String) columns.get(0));
-//									dataTable.setValue(0, 1, (Float) columns.get(1));
-//								}
-//							}
-//						});
-//				
-//				String test= "test";
-//				LineChart line = new LineChart(dataTable,createOptions());
-//				panel.add(line);
-//			}
-//		};
 
-		// Load the visualization api, passing the onLoadCallback to be called
-		// when loading is done.
-//		VisualizationUtils.loadVisualizationApi(onLoadCallback,
-//				LineChart.PACKAGE);
 
 		final Button sendButton = new Button(messages.sendButton());
 		final TextBox nameField = new TextBox();
@@ -154,7 +119,7 @@ public class TemperatureMonitor implements EntryPoint {
 				sendButton.setEnabled(false);
 				textToServerLabel.setText(textToServer);
 				serverResponseLabel.setText("");
-				queryService.getTableAsHTML(textToServer,
+				greetingService.getTableAsHTML(textToServer,
 						new AsyncCallback<String>() {
 							public void onFailure(Throwable caught) {
 								// Show the RPC error message to the user
@@ -184,28 +149,4 @@ public class TemperatureMonitor implements EntryPoint {
 		sendButton.addClickHandler(handler);
 		nameField.addKeyUpHandler(handler);
 	}
-
-//	private Options createOptions() {
-//		Options options = Options.create();
-//		options.setWidth(400);
-//		options.setHeight(240);
-//		options.setTitle("Utetemp");
-//		return options;
-//	}
-//
-//	
-//
-//	private AbstractDataTable createTable() {
-//		DataTable data = DataTable.create();
-//		data.addColumn(ColumnType.STRING, "Task");
-//		data.addColumn(ColumnType.NUMBER, "Hours per Day");
-//		data.addRows(3);
-//		data.setValue(0, 0, "Work");
-//		data.setValue(0, 1, 14);
-//		data.setValue(1, 0, "Sleep");
-//		data.setValue(1, 1, 10);
-//		data.setValue(2, 0, "Other");
-//		data.setValue(2, 1, 10);
-//		return data;
-//	}
 }

@@ -7,13 +7,21 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet</servlet-name>
+    <servlet-name>queryServlet</servlet-name>
     <servlet-class>se.anviken.temperature.monitor.server.QueryServiceImpl</servlet-class>
+  </servlet>
+   <servlet>
+    <servlet-name>graphServlet</servlet-name>
+    <servlet-class>se.anviken.temperature.monitor.server.GetGraphDataServiceImpl</servlet-class>
   </servlet>
 
   <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/TemperatureMonitor/greet</url-pattern>
+    <servlet-name>queryServlet</servlet-name>
+    <url-pattern>/TemperatureMonitor/query</url-pattern>
+  </servlet-mapping>
+    <servlet-mapping>
+    <servlet-name>graphServlet</servlet-name>
+    <url-pattern>/TemperatureMonitor/graph</url-pattern>
   </servlet-mapping>
 
   <!-- Default page to serve -->
