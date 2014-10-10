@@ -5,8 +5,7 @@
 	<inherits name='com.google.gwt.user.User' />
 	<inherits name='com.google.gwt.visualization.Visualization' />
 	<inherits name="com.google.gwt.json.JSON" />
-	
-	
+		
 	<!-- We need the JUnit module in the main module, -->
 	<!-- otherwise eclipse complains (Google plugin bug?) -->
 	<inherits name='com.google.gwt.junit.JUnit' />
@@ -14,8 +13,8 @@
 	<!-- Inherit the default GWT style sheet. You can change -->
 	<!-- the theme of your GWT application by uncommenting -->
 	<!-- any one of the following lines. -->
-	<inherits name='com.google.gwt.user.theme.standard.Standard' />
-	<!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
+	<!-- <inherits name='com.google.gwt.user.theme.standard.Standard' /> -->
+	<inherits name='com.google.gwt.user.theme.chrome.Chrome'/>
 	<!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/> -->
 
 	<!-- Other module inherits -->
@@ -26,5 +25,4 @@
 	<!-- Specify the paths for translatable code -->
 	<source path='client' />
 	<source path='shared' />
-
 </module>

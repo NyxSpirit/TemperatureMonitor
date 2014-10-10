@@ -33,7 +33,7 @@ public class TemperatureMonitor implements EntryPoint {
 	 * Create a remote service proxy to talk to the server-side Greeting
 	 * service.
 	 */
-	private final QueryServiceAsync greetingService = GWT
+	private final QueryServiceAsync queryService = GWT
 			.create(QueryService.class);
 
 	private final Messages messages = GWT.create(Messages.class);
@@ -72,7 +72,6 @@ public class TemperatureMonitor implements EntryPoint {
 //						});
 //				
 //				String test= "test";
-//				// Create a pie chart visualization.
 //				LineChart line = new LineChart(dataTable,createOptions());
 //				panel.add(line);
 //			}
@@ -155,7 +154,7 @@ public class TemperatureMonitor implements EntryPoint {
 				sendButton.setEnabled(false);
 				textToServerLabel.setText(textToServer);
 				serverResponseLabel.setText("");
-				greetingService.getTable(textToServer,
+				queryService.getTableAsHTML(textToServer,
 						new AsyncCallback<String>() {
 							public void onFailure(Throwable caught) {
 								// Show the RPC error message to the user

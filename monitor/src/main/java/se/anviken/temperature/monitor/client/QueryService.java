@@ -8,5 +8,5 @@ import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
  */
 @RemoteServiceRelativePath("greet")
 public interface QueryService extends RemoteService {
-	String getTable(String input) throws IllegalArgumentException;
+	String getTableAsHTML(String input) throws IllegalArgumentException;
 }
