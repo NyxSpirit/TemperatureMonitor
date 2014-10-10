@@ -1,0 +1,59 @@
+package se.anviken.temperature.monitor.shared;
+
+import java.sql.ResultSet;
+import java.sql.ResultSetMetaData;
+import java.sql.SQLException;
+
+public class HTMLUtils {
+	/**
+	 * Escape an html string. Escaping data received from the client helps to
+	 * prevent cross-site script vulnerabilities.
+	 *
+	 * @param html
+	 *            the html string to escape
+	 * @return the escaped string
+	 */
+	public String escapeHtml(String html) {
+		if (html == null) {
+			return null;
+		}
+		return html.replaceAll("&", "&amp;").replaceAll("<", "&lt;")
+				.replaceAll(">", "&gt;");
+	}
+	
+	/**
+	 * Converts a resultset to HTML table
+	 * @param rs The Resultset to convert
+	 * @return The HTML code for the ResultSet in form of a table
+	 */
+	public static String rsToHTML(ResultSet rs) {
+		String html = "";
+		try {
+			html = html + "<P ALIGN='center'><TABLE BORDER=1>";
+			ResultSetMetaData rsmd;
+
+			rsmd = rs.getMetaData();
+
+			int columnCount = rsmd.getColumnCount();
+			// table header
+			html = html + "<TR>";
+			for (int i = 0; i < columnCount; i++) {
+				html = html + "<TH>" + rsmd.getColumnLabel(i + 1) + "</TH>";
+			}
+			html = html + "</TR>";
+			// the data
+			while (rs.next()) {
+				html = html + "<TR>";
+				for (int i = 0; i < columnCount; i++) {
+					html = html + "<TD>" + rs.getString(i + 1) + "</TD>";
+				}
+				html = html + "</TR>";
+			}
+			html = html + "</TABLE></P>";
+		} catch (SQLException e) {
+
+			e.printStackTrace();
+		}
+		return html;
+	}
+}
