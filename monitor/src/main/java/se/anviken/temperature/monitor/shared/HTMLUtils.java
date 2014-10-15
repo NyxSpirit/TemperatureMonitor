@@ -71,7 +71,7 @@ public class HTMLUtils {
 		JSONArray jsonArray = jsonObject.get("graph_data").isArray();
 
 		dataTable = DataTable.create();
-		dataTable.addColumn(ColumnType.DATETIME, "time");
+		dataTable.addColumn(ColumnType.STRING, "time");
 		dataTable.addColumn(ColumnType.NUMBER, "temp");
 		int size = jsonArray.size();
 		dataTable.addRows(size);

@@ -33,7 +33,7 @@ public class GetGraphDataServiceImpl extends RemoteServiceServlet implements
 			do {
 				JSONObject tempLog = new JSONObject();
 				tempLog.put("time",
-						rs.getTimestamp("temp_timestamp"));
+						rs.getString("temp_timestamp"));
 				tempLog.put("temperature",
 						rs.getDouble("temperature"));
 				allTemps.add(tempLog);

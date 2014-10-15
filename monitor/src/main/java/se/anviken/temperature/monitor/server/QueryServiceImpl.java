@@ -22,6 +22,7 @@ public class QueryServiceImpl extends RemoteServiceServlet implements
 		try {			
 			MySQLConnection conn = new MySQLConnection();
 			ResultSet rs = conn.selectFromTable(input,25);
+			//"SELECT * FROM temperature.temperatures where temperatures.sensor_id = 14 and date(temperatures.temp_timestamp) = date(now()) limit 25;"
 			out = HTMLUtils.rsToHTML(rs);
 			rs.close();
 			conn.close();
