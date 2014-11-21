@@ -1,0 +1,960 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 8,71 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   40% complete (ETR: 6 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12,29 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2824 units from cache.
+Compiling...
+   Compilation completed in 1,70 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,11 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2824 units from cache.
+Compiling...
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26,06 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2820 cached/archived units.  Used 2820 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,10 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding se.anviken.temperature.monitor.client.Messages
+   Invoking generator com.google.gwt.i18n.rebind.LocalizableGenerator
+      Processing interface se.anviken.temperature.monitor.client.Messages
+         Generating method body for downstairs()
+         Generating method body for outsidetemperature()
+         Generating method body for upstairs()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2820 cached/archived units.  Used 2820 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,09 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding se.anviken.temperature.monitor.client.Messages
+   Invoking generator com.google.gwt.i18n.rebind.LocalizableGenerator
+      Processing interface se.anviken.temperature.monitor.client.Messages
+         Generating method body for downstairs()
+         Generating method body for outsidetemperature()
+         Generating method body for upstairs()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   40% complete (ETR: 7 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,88 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   60% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,82 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2824 units from cache.
+Compiling...
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 21,86 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2823 cached/archived units.  Used 2823 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,06 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding se.anviken.temperature.monitor.client.Messages
+   Invoking generator com.google.gwt.i18n.rebind.LocalizableGenerator
+      Processing interface se.anviken.temperature.monitor.client.Messages
+         Generating method body for downstairs()
+         Generating method body for outsidetemperature()
+         Generating method body for upstairs()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2824 cached/archived units.  Used 2824 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding se.anviken.temperature.monitor.client.Messages
+   Invoking generator com.google.gwt.i18n.rebind.LocalizableGenerator
+      Processing interface se.anviken.temperature.monitor.client.Messages
+         Generating method body for downstairs()
+         Generating method body for outsidetemperature()
+         Generating method body for upstairs()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2824 units from cache.
+Compiling...
+   10% complete (ETR: 26 seconds)
+   10% complete (ETR: 26 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 18 seconds)
+   40% complete (ETR: 15 seconds)
+   50% complete (ETR: 13 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 7 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 32,93 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/client/TemperatureMonitor.java'
+      Line 11: The method addAll() is undefined for the type TemperatureMonitorGUI
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/client/TemperatureMonitor.java'
+      [ERROR] Line 11: The method addAll() is undefined for the type TemperatureMonitorGUI
+   [ERROR] Unable to find type 'se.anviken.temperature.monitor.client.TemperatureMonitor'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2823 cached/archived units.  Used 2823 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,05 seconds
+Invalid Unit: se.anviken.temperature.monitor.client.TemperatureMonitor
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/client/TemperatureMonitor.java'
+      Line 11: The method addAll() is undefined for the type TemperatureMonitorGUI
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/client/TemperatureMonitor.java'
+      [ERROR] Line 11: The method addAll() is undefined for the type TemperatureMonitorGUI
+   [ERROR] Unable to find type 'se.anviken.temperature.monitor.client.TemperatureMonitor'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2823 cached/archived units.  Used 2823 / 2824 units from cache.
+Compiling...
+   Compilation completed in 0,04 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2825 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 1011 seconds)
+   20% complete (ETR: 692 seconds)
+   30% complete (ETR: 506 seconds)
+   40% complete (ETR: 377 seconds)
+   50% complete (ETR: 280 seconds)
+   60% complete (ETR: 206 seconds)
+   70% complete (ETR: 139 seconds)
+   80% complete (ETR: 86 seconds)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 8,81 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,33 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2826 units from cache.
+Compiling...
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 20,77 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.CellTable.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellTableFooterBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableFooterBackground'
+      Preparing method cellTableHeaderBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableHeaderBackground'
+      Preparing method cellTableLoading
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableLoading'
+      Preparing method cellTableSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSelectedBackground'
+      Preparing method cellTableSortAscending
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSortAscending'
+      Preparing method cellTableSortDescending
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSortDescending'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.AbstractCellTable.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.AbstractCellTable.Template
+         Generating method body for div()
+         Generating method body for tbody()
+         Generating method body for td()
+         Generating method body for tdBothAlign()
+         Generating method body for tdHorizontalAlign()
+         Generating method body for tdVerticalAlign()
+         Generating method body for tfoot()
+         Generating method body for thead()
+         Generating method body for tr()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2826 units from cache.
+Compiling...
+   0% complete (ETR: 46 seconds)
+   10% complete (ETR: 46 seconds)
+   20% complete (ETR: 31 seconds)
+   30% complete (ETR: 23 seconds)
+   40% complete (ETR: 17 seconds)
+   50% complete (ETR: 14 seconds)
+   60% complete (ETR: 10 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 35,46 seconds
+Validating units:
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/HTMLUtils.java'
+      Line 36: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+      Line 40: No source code is available for type java.sql.ResultSetMetaData; did you forget to inherit a required module?
+      Line 60: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+   Errors in 'file:/C:/Git/TemperatureMonitor/TemperatureMonitor/monitor/src/main/java/se/anviken/temperature/monitor/shared/MySQLConnection.java'
+      Line 15: No source code is available for type java.sql.Connection; did you forget to inherit a required module?
+      Line 16: No source code is available for type java.sql.Statement; did you forget to inherit a required module?
+      Line 22: No source code is available for type java.sql.SQLException; did you forget to inherit a required module?
+      Line 23: The method getProperty(String, String) in the type System is not applicable for the arguments (String)
+      Line 24: No source code is available for type java.io.FileInputStream; did you forget to inherit a required module?
+      Line 25: No source code is available for type java.util.Properties; did you forget to inherit a required module?
+      Line 27: No source code is available for type com.mysql.jdbc.jdbc2.optional.MysqlDataSource; did you forget to inherit a required module?
+      Line 42: No source code is available for type java.sql.ResultSet; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,76 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 7,94 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes

@@ -64,7 +64,7 @@ public class HTMLUtils {
 		return html;
 	}
 	
-	private DataTable jsonStringToDataTable(String result) {
+	public DataTable jsonStringToDataTable(String result) {
 		DataTable dataTable;
 		JSONValue value = JSONParser.parseStrict(result);
 		JSONObject jsonObject = value.isObject();
